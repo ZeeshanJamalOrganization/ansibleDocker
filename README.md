@@ -1,4 +1,4 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/zeeshanjamal16/ansibledocker.svg)](https://hub.docker.com/r/zeeshanjamal16/ansibledocker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/zeeshanjamal16/ansibledocker.svg?style=for-the-badge)](https://hub.docker.com/r/zeeshanjamal16/ansibledocker)
 
 # ansibleDocker
 
