@@ -1,3 +1,5 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/zeeshanjamal16/ansibledocker.svg)](https://hub.docker.com/r/zeeshanjamal16/ansibledocker)
+
 # ansibleDocker
 
 A full fledged docker image to run ansible related commands.
